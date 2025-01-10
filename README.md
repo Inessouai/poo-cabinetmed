@@ -1,7 +1,7 @@
 # poo-cabinetmed
 # Yourhealth Desktop Medical Clinic Management System
 
-ESante is a medical clinic management system designed for desktop usage, created to streamline clinic operations, including appointment scheduling, patient and employee management,  and more.
+Yourhealth is a medical clinic management system designed for desktop usage, created to streamline clinic operations, including appointment scheduling, patient and employee management,  and more.
 
 **Features**
 
